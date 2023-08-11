@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yasmen.khaled2000@gmail.com**
 
-- ⚡ Fun fact **I'm a software engineer by day, artist by night, merging technology and creativity to bring captivating visions to life."**
+- ⚡ Fun fact **"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

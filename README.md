@@ -2,6 +2,8 @@
 
 <h2 align="center">Hey, good to see you!🐾 </h2>
 <h3 align="center">A passionate Full-Stack developer from libya</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmen-khaled&label=Profile%20views&color=0e75b6&style=flat" alt="yasmen-khaled" /> </p>
 
@@ -25,33 +27,11 @@
 
 
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmen-khaled&show_icons=true&locale=en&layout=compact" alt="yasmen-khaled" /></p>
--->
-<!--
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmen-khaled&show_icons=true&locale=en" alt="yasmen-khaled" /></p>
--->
-<!--
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasmen-khaled&" alt="yasmen-khaled" /></p>
--->
+

@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasmenkhaled8" target="blank"><img src="https://img.shields.io/twitter/follow/yasmenkhaled8?logo=twitter&style=for-the-badge" alt="yasmenkhaled8" /></a> </p>
 
-- 🌱 I’m currently learning **ALX software Engineer**
+- 🌱 software Engineer**
 
 - 📫 How to reach me **yasmen.khaled2000@gmail.com**
 
